@@ -1,0 +1,13 @@
+{
+  "name": "js_uncode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js_uncode.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "escodegen": "",
+    "esmangle": "",
+    "esprima": "",
+    "express": "^4.12.4"
+  }
+}
