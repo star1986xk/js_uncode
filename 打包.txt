@@ -1,0 +1,3 @@
+pyinstaller --paths C:\Users\Administrator\AppData\Local\Programs\Python\Python37\Lib\site-packages\PyQt5\Qt\bin -w -i ./ui/title.ico JS反混淆工具.py
+
+node_modules文件夹、src文件夹、js_uncode.js文件放入根目录
